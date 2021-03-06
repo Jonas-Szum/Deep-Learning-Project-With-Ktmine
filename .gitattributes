@@ -1,0 +1,3 @@
+*.htm linguist-detectable=false
+*.html linguist-detectable=false
+*.xlsx linguist-detectable=false
