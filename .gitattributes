@@ -1,3 +1,3 @@
-*.htm linguist-detectable=false
-*.html linguist-detectable=false
-*.xlsx linguist-detectable=false
+Data/* linguist-vendored
+paragraphID/* linguist-vendored
+parsedData/* linguist-vendored
